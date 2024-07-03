@@ -1,6 +1,3 @@
-Aqui está um exemplo de README para o seu projeto da faculdade:
-
-markdown
 # Visualização de Dados de Músicas do Billboard - 2024
 
 Este projeto apresenta a visualização de dados de músicas que chegaram ao Billboard no primeiro semestre de 2024. Utilizando a linguagem Python, foram criados três gráficos para representar diferentes aspectos dos dados musicais.
@@ -9,8 +6,6 @@ Este projeto apresenta a visualização de dados de músicas que chegaram ao Bil
 
 - [Introdução](#introdução)
 - [Dados](#dados)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Contato](#contato)
 
 ## Introdução
@@ -34,13 +29,13 @@ Title,Artist,Genre,ReleaseDate,Duration,Album,Popularity
 ### Descrição dos gráficos
 
 1. **Grafo Node-Link dos Top 10 Artistas e Seus Álbuns**
-   ![Grafo Node-Link](images/top_artists_albums_graph.png)
+   ![Grafo Node-Link](VI-graph/grafo-top10.png)
 
 2. **Gráfico Linear Temporal da Popularidade de Músicas de Hip-Hop**
-   ![Gráfico Linear Temporal](images/hiphop_popularity_over_time.png)
+   ![Gráfico Linear Temporal](VI-graph/grafico-linear.png)
 
 3. **Gráfico de Barras da Quantidade de Músicas por Gênero**
-   ![Gráfico de Barras](images/genre_counts.png)
+   ![Gráfico de Barras](VI-graph/grafico-barra.png)
 
 ## Contato
 
